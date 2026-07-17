@@ -4,10 +4,10 @@ const footerLinks = {
   platform: {
     title: "المنصة",
     links: [
-      { label: "كيف يعمل؟", href: "#how-it-works" },
-      { label: "التخصصات", href: "#specializations" },
-      { label: "المعلمون", href: "#teachers" },
-      { label: "الأسعار", href: "#pricing" },
+      { label: "كيف يعمل؟", href: "/#how-it-works" },
+      { label: "التخصصات", href: "/#specializations" },
+      { label: "المعلمون", href: "/#teachers" },
+      { label: "الأسعار", href: "/#pricing" },
     ],
   },
   legal: {
